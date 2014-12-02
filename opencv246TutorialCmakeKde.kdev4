@@ -1,0 +1,4 @@
+[Project]
+Name=opencv246TutorialCmakeKde
+Manager=KDevCMakeManager
+VersionControl=kdevgit
